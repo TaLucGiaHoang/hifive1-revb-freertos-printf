@@ -20,4 +20,4 @@ Refer to FreeRTOS/Demo/RISC-V_RV32_SiFive_HiFive1_FreedomStudio on https://sourc
 2. Initialize uart0 peripheral to print terminal (see main.c)
 3. Call printf or sprintf
 
-![Image of Demo](demo.png)
+![Image of Demo](demo.jpg)
